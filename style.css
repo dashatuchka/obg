@@ -37,6 +37,7 @@ body {
 
 @media screen and (max-width: 1000px) {
     #images {
+        height: 400px;
         width: 768px;
     }
 }
